@@ -1,0 +1,5 @@
+		//geting the object of Connection interface
+			String url="jdbc:mysql://localhost:3306/date_check";
+			String a="abdur";
+			String user="root";
+			String pass="1234";
